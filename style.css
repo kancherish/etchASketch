@@ -1,0 +1,17 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+.container{
+	margin-bottom:10px;
+	border:2px solid black;
+	height:85vh;
+	min-width:964px;
+	max-width:964px;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+
